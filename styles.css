@@ -1,14 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Calibri, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
 }
 
 header {
-    background-color: #333;
+    background-color: #169;
     color: white;
-    padding: 15px;
+    padding: 20px;
     text-align: center;
 }
 
@@ -28,7 +28,7 @@ header nav ul li a {
 }
 
 h1, h2 {
-    color: #333;
+    color: #169;
 }
 
 section {
@@ -37,7 +37,7 @@ section {
 }
 
 footer {
-    background-color: #333;
+    background-color: #169;
     color: white;
     text-align: center;
     padding: 10px;
